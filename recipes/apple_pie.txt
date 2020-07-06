@@ -9,4 +9,5 @@ Taking away any of thgose << comments ,etc
 
 ---
 In this case I am writing in the detatched head mode, experimenting as ai go.
-
+--
+Fianlly we are adding more to he file, still in detached head mode and seeing the HEAD move agai to a different commit this time.
